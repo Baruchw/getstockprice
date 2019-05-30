@@ -1,1 +1,2 @@
+[![Board Status](https://baruchw.visualstudio.com/cfc2575c-95c1-480e-9cf8-5f329ba1a750/dde8f978-e83d-4990-92eb-b6742fbaa2a3/_apis/work/boardbadge/2419c330-5d5b-42a3-be0c-0637d12d5d70)](https://baruchw.visualstudio.com/cfc2575c-95c1-480e-9cf8-5f329ba1a750/_boards/board/t/dde8f978-e83d-4990-92eb-b6742fbaa2a3/Microsoft.RequirementCategory)
 # getstockprice
